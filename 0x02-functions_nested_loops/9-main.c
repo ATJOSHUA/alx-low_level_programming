@@ -8,5 +8,6 @@
 int main(void)
 {
 	times_tablet();
+
 	return (0);
 }

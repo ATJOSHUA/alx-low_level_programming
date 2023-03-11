@@ -7,7 +7,7 @@
  * Return: void
  */
 
-char *_strcat(char *dest, char *src)
+char *_strcat/*concatcates two strings*/(char *dest, char *src)
 {
 	int i;
 	int j;

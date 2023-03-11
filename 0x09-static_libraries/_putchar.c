@@ -4,7 +4,7 @@
 #include <ctype.h>
 #include <string.h>
 
-void _puts/*puts*/(char *s)
+int _putchar/*putchar*/(char c)
 {
-	puts(s);
+	return putchar(c);
 }
